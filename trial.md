@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO
-http://hyfytvapp.com/test2/HBO_HD/HBO_HD_800.m3u8
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_asia.png" group-title="Movie",HBO 
+http://203.207.56.228/live/iptv005.m3u8
