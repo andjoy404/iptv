@@ -5,8 +5,6 @@ http://xt.bossna-caffe.com:25461/66skarmaoneart/KxybersZzp/1385
 #EXTINF:-1,HBO 2
 http://xt.bossna-caffe.com:25461/66skarmaoneart/KxybersZzp/1384
 
-###
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7giQ6rUTNjNqy6jDBa6nH20wxGuRLxSMvliC_sJF-JFbaGy6z" group-title="Opening Informasi",####^^Berdoa Dulu Sebelum Dimulai^^####
 https://www.googleapis.com/drive/v3/files/1nDPxRPfD76k_doCNkopilXlBJ4gS4Y2s?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
