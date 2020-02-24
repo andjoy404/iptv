@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: HBO HD " tvg-logo="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png" group-title="Server ID",Server ID: HBO HD
+http://tvku.live:8888/userr/200214/4828
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7giQ6rUTNjNqy6jDBa6nH20wxGuRLxSMvliC_sJF-JFbaGy6z" group-title="Opening Informasi",####^^Berdoa Dulu Sebelum Dimulai^^####
 https://www.googleapis.com/drive/v3/files/1nDPxRPfD76k_doCNkopilXlBJ4gS4Y2s?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
