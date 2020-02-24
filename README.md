@@ -3,6 +3,9 @@
 #EXTINF:-1,FOX MOVIES
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
 
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Hits HD" tvg-logo="" group-title="Movies",HBO Hits HD
+http://streamku.live:8888/live/empire/adminempire/578.ts
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7giQ6rUTNjNqy6jDBa6nH20wxGuRLxSMvliC_sJF-JFbaGy6z" group-title="Opening Informasi",####^^Berdoa Dulu Sebelum Dimulai^^####
 https://www.googleapis.com/drive/v3/files/1nDPxRPfD76k_doCNkopilXlBJ4gS4Y2s?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
